@@ -107,4 +107,4 @@ if (!idx_ptr)
 ```
 
 ## License
-[MIT License](https://github.com/BinAl-Sadiq/La-Rayb/blob/main/LICENSE)
+[MIT License](https://github.com/BinAl-Sadiq/.idx/blob/main/LICENSE)
